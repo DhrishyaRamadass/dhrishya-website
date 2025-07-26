@@ -1,0 +1,39 @@
+body {
+  font-family: 'Fredoka', sans-serif;
+  background-color: #fffafc;
+  color: #444;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+header, section, footer {
+  margin-bottom: 3rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #e295b5;
+}
+
+h2 {
+  color: #a37cc2;
+}
+
+.project-card {
+  background: #fef9d7;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 2px dashed #f78fb3;
+}
+
+a {
+  color: #f78fb3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
